@@ -1,12 +1,6 @@
 ### Hi there 👋
 
-
-
-
-    🔭 I'm currently working on .Net Core & Angular
-    💬 Ask me about Anything
-    📫 How to reach me on e-mail: ysfakkurt@hotmail.com
-    📫 How to reach me on linked-in: Yusuf Akkurt
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=feritberkay)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **FeritBerkay/FeritBerkay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
