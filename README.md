@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+
+
+    🔭 I'm currently working on .Net Core & Angular
+    💬 Ask me about Anything
+    📫 How to reach me on e-mail: ysfakkurt@hotmail.com
+    📫 How to reach me on linked-in: Yusuf Akkurt
+
 <!--
 **FeritBerkay/FeritBerkay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
