@@ -11,7 +11,7 @@
 - 📫 How to reach me on gmail **feritberkaykabil@gmail.com**
 
 - 📫 How to reach me on linkedin <a href="https://linkedin.com/in/ferit berkay kabil" target="blank">Ferit Berkay</a>
-
+<br>
 ![](https://komarev.com/ghpvc/?username=FeritBerkay&color=000000)
 
 <h3 align="left">Languages and Tools:</h3>
