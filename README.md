@@ -2,7 +2,7 @@
 <h3 align="center">Junior Software Developer</h3>
 
 
-- 🔭 I’m currently working on [recap](https://github.com/FeritBerkay/ReCapProject-Frontend)
+- 🔭 I’m currently working on [RentACarProject](https://github.com/FeritBerkay/ReCapProject-Frontend)
 
 - 🌱 I’m currently learning **Java&React**
 
