@@ -10,7 +10,7 @@
 
 - 📫 How to reach me on gmail **feritberkaykabil@gmail.com**
 
-- 📫 How to reach me on linkedin <a href="https://www.linkedin.com/in/ferit-berkay-kabil-610413203/" target="blank">Ferit Berkay <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" </a> <br>
+- 📫 How to reach me on linkedin <a href="https://www.linkedin.com/in/ferit-berkay-kabil-610413203/" target="blank">Ferit Berkay <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <br>
 
 ![](https://komarev.com/ghpvc/?username=FeritBerkay&color=000000)
 
