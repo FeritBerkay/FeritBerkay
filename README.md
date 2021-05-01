@@ -1,15 +1,17 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm FeritBerkay</h1>
 <h3 align="center">Junior Software Developer</h3>
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FeritBerkay)](https://github.com/anuraghazra/github-readme-stats)
 - 🔭 I’m currently working on [recap](https://github.com/FeritBerkay/ReCapProject-Frontend)
 
 - 🌱 I’m currently learning **Java&React**
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **feritberkaykabil@gmail.com**
+- 📫 How to reach me on gmail **feritberkaykabil@gmail.com**
+- 
+- 📫 How to reach me on linkedin <a href="https://linkedin.com/in/ferit berkay kabil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="ferit berkay kabil" height="30" width="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
